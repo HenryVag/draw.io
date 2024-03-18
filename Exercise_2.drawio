@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-11T09:43:48.780Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="MxUtezbny7vdVYLUfBe0" version="24.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-18T08:17:42.941Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="X_mi3hDEBqIQKSi0CXIr" version="24.0.1" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="690" dy="343" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="836" dy="415" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9,11 +9,6 @@
         </mxCell>
         <mxCell id="aM9ryv3xv72pqoxQDRHE-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="aM9ryv3xv72pqoxQDRHE-1" vertex="1">
           <mxGeometry x="45" y="70" width="10" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="aM9ryv3xv72pqoxQDRHE-3" value="" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="aM9ryv3xv72pqoxQDRHE-1" target="aM9ryv3xv72pqoxQDRHE-2" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-15" y="70" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="hEseMmNDXz05GOYejti7-18" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="aM9ryv3xv72pqoxQDRHE-1">
           <mxGeometry x="45" y="170" width="10" height="50" as="geometry" />
@@ -50,10 +45,10 @@
         <mxCell id="hEseMmNDXz05GOYejti7-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="hEseMmNDXz05GOYejti7-1">
           <mxGeometry x="45" y="90" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="hEseMmNDXz05GOYejti7-5" value="availablePrey" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hEseMmNDXz05GOYejti7-5" value="available_prey" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="170" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="hEseMmNDXz05GOYejti7-7" value="get_all_mammals()" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="hEseMmNDXz05GOYejti7-7" value="prey_in_habitat()" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="280" y="140" as="sourcePoint" />
             <Array as="points">
@@ -62,7 +57,7 @@
             <mxPoint x="440" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hEseMmNDXz05GOYejti7-8" value="allMammals" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hEseMmNDXz05GOYejti7-8" value="all_Inhabitants" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="150" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hEseMmNDXz05GOYejti7-10" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="1">
@@ -118,6 +113,24 @@
         </mxCell>
         <mxCell id="hEseMmNDXz05GOYejti7-24" value="rest()" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="250" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hEseMmNDXz05GOYejti7-25" value="" style="endArrow=classic;html=1;rounded=0;curved=0;jumpSize=5;endSize=1;" edge="1" parent="1" target="hEseMmNDXz05GOYejti7-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="99.81043478260875" y="90" as="sourcePoint" />
+            <mxPoint x="250.18" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hEseMmNDXz05GOYejti7-27" value="goto_habitat()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="125" y="80" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hEseMmNDXz05GOYejti7-29" value="" style="endArrow=classic;html=1;rounded=0;curved=0;jumpSize=5;endSize=1;" edge="1" parent="1" source="aM9ryv3xv72pqoxQDRHE-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="291.9000000000001" y="100.51000000000005" as="sourcePoint" />
+            <mxPoint x="440" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hEseMmNDXz05GOYejti7-31" value="goto_habitat()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="285" y="90" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
