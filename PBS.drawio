@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0" version="26.0.10">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="2257" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2555" dy="952" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,46 +17,46 @@
           <mxGeometry x="-300" y="110" width="74" height="30" as="geometry" />
         </mxCell>
         <mxCell id="16awIQKgBBGIW1NUnGCz-7" value="&lt;font&gt;1.1 UI Components&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="-740" y="150" width="74" height="22" as="geometry" />
+          <mxGeometry x="-740" y="160" width="74" height="22" as="geometry" />
         </mxCell>
         <mxCell id="16awIQKgBBGIW1NUnGCz-8" value="&lt;font&gt;1.1.1 Buttons&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;spacing=0;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="-710" y="182" width="74" height="22" as="geometry" />
+          <mxGeometry x="-710" y="192" width="74" height="22" as="geometry" />
         </mxCell>
         <mxCell id="16awIQKgBBGIW1NUnGCz-9" value="&lt;font&gt;1.1.2 Animations&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;spacing=0;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="-710" y="210" width="74" height="22" as="geometry" />
+          <mxGeometry x="-710" y="220" width="74" height="22" as="geometry" />
         </mxCell>
         <mxCell id="16awIQKgBBGIW1NUnGCz-10" value="&lt;font&gt;1.2 Calendar &amp;amp; Reminders&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;spacing=0;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="-740" y="242" width="74" height="22" as="geometry" />
+          <mxGeometry x="-740" y="252" width="74" height="22" as="geometry" />
         </mxCell>
         <mxCell id="16awIQKgBBGIW1NUnGCz-11" value="&lt;font&gt;1.3 Memory Lists&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;spacing=0;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="-740" y="342" width="74" height="22" as="geometry" />
         </mxCell>
         <mxCell id="16awIQKgBBGIW1NUnGCz-12" value="&lt;font&gt;1.4 Finance Section&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;spacing=0;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="-740" y="452" width="74" height="22" as="geometry" />
+          <mxGeometry x="-740" y="430" width="74" height="22" as="geometry" />
         </mxCell>
         <mxCell id="16awIQKgBBGIW1NUnGCz-13" value="&lt;font&gt;1.5 Important Links&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;spacing=0;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="-740" y="546" width="74" height="22" as="geometry" />
+          <mxGeometry x="-740" y="524" width="74" height="22" as="geometry" />
         </mxCell>
         <mxCell id="16awIQKgBBGIW1NUnGCz-15" value="&lt;font&gt;2.1 User Authentification&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;spacing=0;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="-530" y="160" width="74" height="22" as="geometry" />
+          <mxGeometry x="-510" y="150" width="74" height="22" as="geometry" />
         </mxCell>
         <mxCell id="16awIQKgBBGIW1NUnGCz-16" value="&lt;font&gt;2.2 Data Storage&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;spacing=0;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="-530" y="250" width="74" height="22" as="geometry" />
+          <mxGeometry x="-510" y="240" width="74" height="22" as="geometry" />
         </mxCell>
         <mxCell id="16awIQKgBBGIW1NUnGCz-17" value="&lt;font&gt;2.3 Finance Data Processing&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;spacing=0;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="-530" y="342" width="74" height="22" as="geometry" />
+          <mxGeometry x="-510" y="332" width="74" height="22" as="geometry" />
         </mxCell>
         <mxCell id="16awIQKgBBGIW1NUnGCz-18" value="&lt;font&gt;3.1 Reward Mechanisms&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="-300" y="160" width="74" height="22" as="geometry" />
+          <mxGeometry x="-280" y="150" width="74" height="22" as="geometry" />
         </mxCell>
         <mxCell id="16awIQKgBBGIW1NUnGCz-19" value="&lt;font&gt;3.2 Progress Tracking&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;spacing=0;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="-300" y="250" width="74" height="22" as="geometry" />
+          <mxGeometry x="-280" y="240" width="74" height="22" as="geometry" />
         </mxCell>
         <mxCell id="16awIQKgBBGIW1NUnGCz-20" value="1.2.1 Notifications" style="rounded=1;whiteSpace=wrap;html=1;spacing=0;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="-710" y="272" width="74" height="22" as="geometry" />
+          <mxGeometry x="-710" y="282" width="74" height="22" as="geometry" />
         </mxCell>
         <mxCell id="16awIQKgBBGIW1NUnGCz-21" value="1.2.2 Add/edit/delete events" style="rounded=1;whiteSpace=wrap;html=1;spacing=0;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="-710" y="302" width="74" height="22" as="geometry" />
+          <mxGeometry x="-710" y="312" width="74" height="22" as="geometry" />
         </mxCell>
         <mxCell id="16awIQKgBBGIW1NUnGCz-22" value="1.3.1 Create/Edit Lists" style="rounded=1;whiteSpace=wrap;html=1;spacing=0;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="-710" y="372" width="74" height="22" as="geometry" />
@@ -65,40 +65,43 @@
           <mxGeometry x="-710" y="400" width="74" height="22" as="geometry" />
         </mxCell>
         <mxCell id="16awIQKgBBGIW1NUnGCz-24" value="1.4.1 Expense Tracking" style="rounded=1;whiteSpace=wrap;html=1;spacing=0;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="-710" y="482" width="74" height="22" as="geometry" />
+          <mxGeometry x="-710" y="460" width="74" height="22" as="geometry" />
         </mxCell>
         <mxCell id="16awIQKgBBGIW1NUnGCz-25" value="1.4.2 Expense Planning" style="rounded=1;whiteSpace=wrap;html=1;spacing=0;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="-710" y="512" width="74" height="22" as="geometry" />
+          <mxGeometry x="-710" y="490" width="74" height="22" as="geometry" />
         </mxCell>
         <mxCell id="16awIQKgBBGIW1NUnGCz-29" value="1.5.1 Add/Delete Links" style="rounded=1;whiteSpace=wrap;html=1;spacing=0;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="-710" y="574" width="74" height="22" as="geometry" />
+          <mxGeometry x="-710" y="552" width="74" height="22" as="geometry" />
         </mxCell>
         <mxCell id="16awIQKgBBGIW1NUnGCz-30" value="1.5.2 Open Link" style="rounded=1;whiteSpace=wrap;html=1;spacing=0;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="-710" y="600" width="74" height="22" as="geometry" />
+          <mxGeometry x="-710" y="578" width="74" height="22" as="geometry" />
         </mxCell>
         <mxCell id="16awIQKgBBGIW1NUnGCz-31" value="2.1.1 Sign Up" style="rounded=1;whiteSpace=wrap;html=1;spacing=0;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="-500" y="188" width="74" height="22" as="geometry" />
+          <mxGeometry x="-480" y="178" width="74" height="22" as="geometry" />
         </mxCell>
         <mxCell id="16awIQKgBBGIW1NUnGCz-32" value="2.1.2 Login" style="rounded=1;whiteSpace=wrap;html=1;spacing=0;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="-500" y="220" width="74" height="22" as="geometry" />
+          <mxGeometry x="-480" y="210" width="74" height="22" as="geometry" />
         </mxCell>
         <mxCell id="16awIQKgBBGIW1NUnGCz-33" value="&lt;font&gt;2.2.1 Secure data storage&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;spacing=0;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="-500" y="280" width="74" height="22" as="geometry" />
+          <mxGeometry x="-480" y="270" width="74" height="22" as="geometry" />
         </mxCell>
         <mxCell id="16awIQKgBBGIW1NUnGCz-34" value="2.2.2 Data sync across devices" style="rounded=1;whiteSpace=wrap;html=1;spacing=0;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="-500" y="310" width="74" height="22" as="geometry" />
+          <mxGeometry x="-480" y="300" width="74" height="22" as="geometry" />
         </mxCell>
         <mxCell id="16awIQKgBBGIW1NUnGCz-35" value="2.3.1 Graph creation/updates " style="rounded=1;whiteSpace=wrap;html=1;spacing=0;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="-500" y="372" width="74" height="22" as="geometry" />
+          <mxGeometry x="-480" y="362" width="74" height="22" as="geometry" />
         </mxCell>
         <mxCell id="16awIQKgBBGIW1NUnGCz-37" value="3.2.1 Expense tracking" style="rounded=1;whiteSpace=wrap;html=1;spacing=0;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="-270" y="280" width="74" height="22" as="geometry" />
+          <mxGeometry x="-250" y="270" width="74" height="22" as="geometry" />
         </mxCell>
         <mxCell id="16awIQKgBBGIW1NUnGCz-38" value="3.1.1 XP System" style="rounded=1;whiteSpace=wrap;html=1;spacing=0;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="-270" y="188" width="74" height="22" as="geometry" />
+          <mxGeometry x="-250" y="178" width="74" height="22" as="geometry" />
         </mxCell>
         <mxCell id="16awIQKgBBGIW1NUnGCz-39" value="3.1.2 Avatar customization" style="rounded=1;whiteSpace=wrap;html=1;spacing=0;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="-270" y="220" width="74" height="22" as="geometry" />
+          <mxGeometry x="-250" y="210" width="74" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="16awIQKgBBGIW1NUnGCz-40" value="Diginavi" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-480" y="600" width="74" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
