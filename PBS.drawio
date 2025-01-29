@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0" version="26.0.10">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="2012" dy="653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2257" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -50,7 +50,7 @@
           <mxGeometry x="-300" y="160" width="74" height="22" as="geometry" />
         </mxCell>
         <mxCell id="16awIQKgBBGIW1NUnGCz-19" value="&lt;font&gt;3.2 Progress Tracking&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;spacing=0;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="-300" y="242" width="74" height="22" as="geometry" />
+          <mxGeometry x="-300" y="250" width="74" height="22" as="geometry" />
         </mxCell>
         <mxCell id="16awIQKgBBGIW1NUnGCz-20" value="1.2.1 Notifications" style="rounded=1;whiteSpace=wrap;html=1;spacing=0;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="-710" y="272" width="74" height="22" as="geometry" />
@@ -91,11 +91,14 @@
         <mxCell id="16awIQKgBBGIW1NUnGCz-35" value="2.3.1 Graph creation/updates " style="rounded=1;whiteSpace=wrap;html=1;spacing=0;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="-500" y="372" width="74" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="16awIQKgBBGIW1NUnGCz-37" value="3.2.1" style="rounded=1;whiteSpace=wrap;html=1;spacing=0;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="-270" y="272" width="74" height="22" as="geometry" />
+        <mxCell id="16awIQKgBBGIW1NUnGCz-37" value="3.2.1 Expense tracking" style="rounded=1;whiteSpace=wrap;html=1;spacing=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="280" width="74" height="22" as="geometry" />
         </mxCell>
         <mxCell id="16awIQKgBBGIW1NUnGCz-38" value="3.1.1 XP System" style="rounded=1;whiteSpace=wrap;html=1;spacing=0;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="-270" y="188" width="74" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="16awIQKgBBGIW1NUnGCz-39" value="3.1.2 Avatar customization" style="rounded=1;whiteSpace=wrap;html=1;spacing=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="220" width="74" height="22" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
