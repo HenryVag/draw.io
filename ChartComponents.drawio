@@ -1,9 +1,21 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0" version="29.3.3">
   <diagram name="Sivu-1" id="T4kXoe15FRCJx22dfWgf">
-    <mxGraphModel>
+    <mxGraphModel dx="640" dy="258" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="eLZbVKHCxOKUFYMdmV79-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Linechart" vertex="1">
+          <mxGeometry height="50" width="130" x="320" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eLZbVKHCxOKUFYMdmV79-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;{data: str, size?: {hgt, wdt}:number, styles?: {}}&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="10" width="130" x="320" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eLZbVKHCxOKUFYMdmV79-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Chart" vertex="1">
+          <mxGeometry height="50" width="150" x="160" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="eLZbVKHCxOKUFYMdmV79-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;size?: number, styles?: ...styles&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="150" x="160" y="130" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
