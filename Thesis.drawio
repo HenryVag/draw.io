@@ -1,9 +1,42 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0" version="29.6.1">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0">
   <diagram name="Sivu-1" id="g6CaRxAp2lPpPa1hPTDV">
-    <mxGraphModel>
+    <mxGraphModel dx="1145" dy="1200" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Gu9FHtGhU5nlgTAcKtbo-8" edge="1" parent="1" source="Gu9FHtGhU5nlgTAcKtbo-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Gu9FHtGhU5nlgTAcKtbo-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gu9FHtGhU5nlgTAcKtbo-9" edge="1" parent="1" source="Gu9FHtGhU5nlgTAcKtbo-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Gu9FHtGhU5nlgTAcKtbo-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gu9FHtGhU5nlgTAcKtbo-10" edge="1" parent="1" source="Gu9FHtGhU5nlgTAcKtbo-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Gu9FHtGhU5nlgTAcKtbo-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gu9FHtGhU5nlgTAcKtbo-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="charts" vertex="1">
+          <mxGeometry height="60" width="120" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Gu9FHtGhU5nlgTAcKtbo-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="piechart" vertex="1">
+          <mxGeometry height="60" width="120" x="120" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Gu9FHtGhU5nlgTAcKtbo-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="linechart" vertex="1">
+          <mxGeometry height="60" width="120" x="120" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="Gu9FHtGhU5nlgTAcKtbo-11" edge="1" parent="1" source="Gu9FHtGhU5nlgTAcKtbo-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Gu9FHtGhU5nlgTAcKtbo-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gu9FHtGhU5nlgTAcKtbo-12" edge="1" parent="1" source="Gu9FHtGhU5nlgTAcKtbo-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Gu9FHtGhU5nlgTAcKtbo-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gu9FHtGhU5nlgTAcKtbo-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="utils" vertex="1">
+          <mxGeometry height="60" width="120" x="120" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="Gu9FHtGhU5nlgTAcKtbo-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="linechart" vertex="1">
+          <mxGeometry height="60" width="120" x="240" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="Gu9FHtGhU5nlgTAcKtbo-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="piechart" vertex="1">
+          <mxGeometry height="60" width="120" x="240" y="400" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
